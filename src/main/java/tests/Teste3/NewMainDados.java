@@ -13,6 +13,7 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 da média;
  */
 
+
 package tests.Teste3;
 
 import java.util.ArrayList;
